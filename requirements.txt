@@ -1,0 +1,9 @@
+gensim
+nltk
+sentence-transformers
+spacy
+scikit-learn
+matplotlib
+umap-learn
+transformers
+torch
